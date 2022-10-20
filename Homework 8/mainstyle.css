@@ -1,0 +1,29 @@
+.pinkColor {
+    color: rgb(252, 1, 252);
+    font-family: Lucida;
+    font-size: 22px;
+}
+
+span.pinkColor {
+    color: rgb(252, 1, 252);
+    font-family: Lucida;
+    font-size: 22px;
+  }
+
+  #specificLink {
+    color: rgb(238, 170, 23);
+    font-family: verdana;
+    font-size: 24px;
+  } 
+
+  .bigText {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+  }
+
+.mediumText {
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+}
